@@ -1,1 +1,2 @@
 # PneumoniaDetection
+In this project, we developed a deep learning model to detect pneumonia from chest X-ray images. We used the Chest X-Ray Images (Pneumonia) dataset from Kaggle, which contains thousands of labeled chest X-ray images categorized as "Normal" and "Pneumonia." For image classification, we employed the DenseNet architecture, known for its efficiency in handling medical imaging tasks due to its dense connectivity between layers. Our model achieved high accuracy, helping to support faster and more reliable pneumonia diagnosis for healthcare professionals.
